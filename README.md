@@ -3,8 +3,8 @@
 This repository hosts a **paper-only case study** on how consumers predict others’ choices and the role of false consensus / projection.
 
 ## Contents
-- `reports/paper.pdf` — Full paper (methods, results, discussion)
-- `abstracts/executive_summary.md` — 1-page summary for quick review
+- [`reports/paper.pdf`](reports/paper.pdf) — Full paper (methods, results, discussion)
+- [`abstracts/executive_summary.md`](abstracts/executive_summary.md) — 1-page summary for quick review
 
 ## One-minute summary
 - **Question:** How well do people predict others’ choices, and do they project their own tastes?
