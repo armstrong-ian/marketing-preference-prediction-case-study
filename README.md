@@ -15,3 +15,5 @@ This repository hosts a **paper-only case study** on how consumers predict other
 
 ## Citation
 Armstrong, I. (2025). *What Do You Like? A Study on Consumers’ Predicting Other People’s Preferences.* Marketing 301 – Consumer Analysis.
+
+**Last updated:** 2025-09-20
